@@ -9,13 +9,13 @@ Bienvenido a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desar
 
 ### 💻 Tecnologías y Herramientas
 - **Lenguajes de programación:** 
-  - Ejemplo: Python, JavaScript, Java
+  - Python, JavaScript, Java, C/C++.
 - **Frameworks y librerías:** 
-  - Ejemplo: React, Django, Spring Boot
+  - React, Django, Spring Boot.
 - **Bases de datos:** 
-  - Ejemplo: MySQL, PostgreSQL, MongoDB
+  - MySQL, PostgreSQL, MongoDB.
 - **Herramientas de desarrollo:** 
-  - Ejemplo: Git, Docker, VS Code
+  - Git, Docker, VS Code, VS 2022, Platform IO, Arduino IDE.
 
 ### 🏆 Áreas de expertise
 - **Desarrollo web:** Frontend y backend
