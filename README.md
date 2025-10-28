@@ -34,7 +34,7 @@ Bienvenido a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desar
   - 📊 Progreso: 65%
 
 - [ ] **Proyecto práctico:** Prototipo funcional de un sistema de riego inteligente utilizando un ESP32 con monitoreo en tiempo real a través de Node-RED, utilizando protocolo MQTT.
-  - 🔗 Repositorio: [enlace]
+  - 🔗 Repositorio: https://github.com/alfredou22/automated_irrigation_system
   - 🛠️ Tecnologías: Microcontroladores, comunicación MQTT.
   - 📈 Estado: Completado
 
