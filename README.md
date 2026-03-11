@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Alfredo
 
-Bienvenido a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desarrollo profesional.
+Bienvenido y bienvenida a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desarrollo profesional.
 
 ---
 
