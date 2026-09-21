@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>趣味でプログラミングをする人 · alfredou22</sub></p>
 <h1>Alfredo Contreras</h1>
-<h2>Control System and Mechatronics engineer</h2>
+<h2>Control Systems and Mechatronics engineer</h2>
 <p>Building useful software, embedded systems, automation projects and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
