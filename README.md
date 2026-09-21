@@ -3,10 +3,10 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · alfredou22</sub></p>
+<p><sub>趣味でプログラミングをする人 · alfredou22</sub></p>
 <h1>Alfredo Contreras</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
+<h2>Control System and Mechatronics engineer</h2>
+<p>Building useful software, embedded systems, automation projects and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/alfredou22">GitHub</a></p>
@@ -25,13 +25,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · C#</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p> Control Systems and Mechatronics engenieer · HTML · Python · C# . Javascript . RAPID</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 6 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>30 contributions · 11 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+<p><sub>Building useful software, embedded systems, automation projects and sharing the work in public.</sub></p>
 
 <h2>Proof at a glance</h2>
 
