@@ -1,89 +1,118 @@
-# ¡Hola! 👋 Soy Alfredo
+<div align="center">
 
-Bienvenido y bienvenida a mi perfil de GitHub. Aquí comparto mi viaje de aprendizaje y desarrollo profesional.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · alfredou22</sub></p>
+<h1>Alfredo Contreras</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
----
+<p><a href="https://github.com/alfredou22">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Alfredo Contreras animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
-## 🎯 Lo que sé
-*Conocimientos y habilidades que domino actualmente*
+<h2>What teams can evaluate quickly</h2>
 
-### 💻 Tecnologías y Herramientas
-- **Lenguajes de programación:** 
-  - Python, JavaScript, Java, C/C++.
-- **Frameworks y librerías:** 
-  - React, Django, Spring Boot.
-- **Bases de datos:** 
-  - MySQL, PostgreSQL, MongoDB.
-- **Herramientas de desarrollo:** 
-  - Git, Docker, VS Code, VS 2022, Platform IO, Arduino IDE.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · C#</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>11 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>30 contributions · 11 active days</p></td>
+</tr>
+</table>
 
-### 🏆 Áreas de expertise
-- **Desarrollo web:** Frontend.
-- **Análisis de datos:** Procesamiento en bases de datos.
-- **Programación de proyectos:** Amplia habilidad para la programación de softwares y API's para automatización.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-## 🌱 Lo que estoy aprendiendo
-*Conocimientos en desarrollo y proyectos actuales*
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>11</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>30</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 📚 Estudios actuales
-- [ ] **Curso/Certificación:** Google IT Automation with Python Professional
-  - 📅 Fecha de inicio: 05/2025
-  - 🎯 Objetivo: Automatizar con Python tareas comunes de administración de sistemas, resolver problemas complejos y a aplicar la automatización a gran escala mediante la gestión de la configuración y la nube.
-  - 📊 Progreso: 65%
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Alfredo Contreras GitHub proof metrics" />
+</picture>
+</p>
 
-- [ ] **Proyecto práctico:** Prototipo funcional de un sistema de riego inteligente utilizando un ESP32 con monitoreo en tiempo real a través de Node-RED, utilizando protocolo MQTT.
-  - 🔗 Repositorio: https://github.com/alfredou22/automated_irrigation_system
-  - 🛠️ Tecnologías: Microcontroladores, comunicación MQTT.
-  - 📈 Estado: Completado
+<h2>Selected work</h2>
 
-### 🔬 Experimentando con
-- **Firmware:** Creación de firmware para sistemas que requieren respuestas en tiempo real.
-- **Desarrollo móvil (iOS/Android):** Creación de app general para conexión cliente-servidor.
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&repos=alfredou22%2FPaintApp%2Calfredou22%2FRobotica_Avanzada%2Calfredou22%2FSistema-Remoto-de-Riego-Automatizado%2Calfredou22%2Forganizacion_archivos&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&repos=alfredou22%2FPaintApp%2Calfredou22%2FRobotica_Avanzada%2Calfredou22%2FSistema-Remoto-de-Riego-Automatizado%2Calfredou22%2Forganizacion_archivos&v=recruiter-projects-1&mode=dark" width="100%" alt="Alfredo Contreras selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/alfredou22/PaintApp">PaintApp</a></h3>
+<p>A selected public project.</p>
+<p><sub>C# · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/alfredou22/PaintApp">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/alfredou22/Robotica_Avanzada">Robotica_Avanzada</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/alfredou22/Sistema-Remoto-de-Riego-Automatizado">Sistema-Remoto-de-Riego-Automatizado</a></h3><p>Prototipo funcional de un sistema de riego inteligente utilizando un ESP32 con monitoreo en tiempo real a través de Node-RED, utilizando protocolo MQT</p><p><sub>C++ · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/alfredou22/organizacion_archivos">organizacion_archivos</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
-## 🚀 Lo que quiero aprender
-*Objetivos de aprendizaje y metas futuras*
+<h2>Technical toolkit</h2>
 
-### 🎯 Próximos objetivos (Corto plazo - 3-6 meses)
-- [ ] **Backend**
-  - 📋 Motivo: Completar habilidades de programación Web.
-  - 📅 Meta: **loading...**
-  
-- [ ] **Desarrollo de IA**
-  - 📋 Motivo: Crear una asistente inteligente e integrarlo a softwares acádemicos.
-  - 📅 Meta: **loading...**
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Alfredo Contreras technology stack" />
+</picture>
+</p>
 
-### 🌟 Visión a largo plazo (6-12 meses)
-- **Área de especialización:** Sistemas de riego agrícola en Nicaragua.
-- **Proyectos ambiciosos:** Automatización y desarrollo de análisis de riegos en ingenios nacionales.
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>61% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>18% of public code</sub></td>
+<td width="20%" align="center"><strong>C#</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
 
-### 💡 Lista de intereses
-*Temas que me gustaría explorar cuando tenga tiempo*
-- Inteligencia Artificial y Machine Learning
-- DevOps y Cloud Computing
-- Blockchain y Web3
-- Ciberseguridad
+<h2>Consistency signal</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=alfredou22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F203770891%3Fu%3De0cb09b259ff54132af548b837d45579d325b327%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Alfredo Contreras contribution activity" />
+</picture>
+</p>
 
-## 🤝 Conectemos
+<hr />
 
-- 💬 Pregúntame sobre: Lo que sea, y lo averiguamos.
-- 📫 Cómo contactarme: ig: @ben_1mr
-- 🌐 Portafolio: **loading...**
-- ⚡ Dato curioso: soy melómano, amo la música más de lo que amo vivir.
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/alfredou22">GitHub</a></td>
+</tr>
+</table>
 
----
-
-### 💼 Estado actual
-```
-🔭 Trabajando en: Módulo Didáctico de Tratamiento de Agua con sistema de control y monitoreo IoT.
-🌱 Aprendiendo: Comunicación Web y módulos de sensores y actuadores físicos.
-```
-
----
-
-*Última actualización: 12/08/2025*
+<p align="center"><sub>Alfredo Contreras · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
